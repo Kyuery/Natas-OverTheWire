@@ -26,6 +26,10 @@
 - Use your browser's developer tools (right-click on the page and select "Inspect" or press `Ctrl+Shift+I`) to view the HTML source of the page.
 - Look for any comments or hidden information in the HTML code.
 
+```
+The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+```
+
 **Next Steps:**
 
 - In the HTML source, you will find a comment that contains the password for Level 1.
