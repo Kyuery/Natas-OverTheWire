@@ -3,7 +3,7 @@
 The Natas wargame teaches the basics of serverside web-security by enabling players to identify and exploit vulnerabilities in web applications. If you notice something essential is missing or have ideas for new levels, please let us know!
 
 ## Note for Beginners
-
+ 
 This game, like most others, is organized into levels. You start at Level 0 and try to "beat" or "finish" it. Completing a level provides information on how to start the next level. The pages on this website for "Level <X>" contain information on how to progress from the previous level to Level X. For example, the page for Level 1 has information on how to gain access from Level 0 to Level 1. All levels in this game have a dedicated page on this website, accessible from the sidemenu on the left of this page.
 
 You may encounter situations where you have no idea what to do. Don’t panic! Don’t give up! The purpose of this game is for you to learn the basics of web security, and part of learning is reading new information. If you've never interacted with web applications in a security context, start with this [introduction to web security](insert_link_here).
