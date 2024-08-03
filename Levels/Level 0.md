@@ -5,5 +5,5 @@
 **URL:** [http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
 
 ```
-The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+<!-- The password for natas1 is 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
 ```
