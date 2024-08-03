@@ -4,7 +4,7 @@
 **URL:** [http://natas3.natas.labs.overthewire.org](http://natas3.natas.labs.overthewire.org)
 
 ```
-natas2.natas.labs.overthewire.org/files/users.txt
+natas2.na tas.labs.overthewire.org/files/users.txt
 
 # username:password
 alice:BYNdCesZqW
