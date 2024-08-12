@@ -1,5 +1,5 @@
 # Natas
- 
+  
 The Natas wargame teaches the basics of serverside web-security by enabling players to identify and exploit vulnerabilities in web applications. If you notice something essential is missing or have ideas for new levels, please let us know!
  
 ## Note for Beginners
